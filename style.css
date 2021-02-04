@@ -1,0 +1,63 @@
+
+.navbar-dark .navbar-nav .nav-link{
+	font-weight: 600;
+	font-size:14px;
+	text-transform: uppercase;
+}
+.navbar-dark .navbar-nav .nav-item{
+	margin: 0 15px;
+}
+.fa{
+	color: white;
+}
+.fas{
+	color: white;
+}
+
+.font-effect-shadow-multiple {
+	color:#911007;
+	cursor: pointer;
+}
+#facebook:hover {
+    content: url('images/facebook1.jpg');
+    height: 30px;
+    width: 30px;
+}
+#twitter:hover {
+    content: url('images/twitter1.png');
+      height: 30px;
+    width: 30px;
+}
+#linked:hover {
+    content: url('images/linkedin1.png');
+      height: 30px;
+    width: 30px;
+}
+#insta:hover {
+    content: url('images/instagram-1.png');
+      height: 30px;
+    width: 30px;
+}
+#jo{
+	color: #911007;
+}
+#jo:hover{
+  color:black;
+  cursor:pointer;
+}
+.scroll{
+  border-radius: 50%;
+}
+.scroll:hover{
+  content: url('images/scroll-hover.png');
+  height: 50px;
+  width: 50px;
+}
+.gotopbtn{
+position: fixed;
+bottom: 0px;
+right: 10px;
+}
+.avatar{
+  border-radius: 50%;
+}
